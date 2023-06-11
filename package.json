@@ -1,0 +1,14 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "workout tracker",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "CJ Dahm",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
